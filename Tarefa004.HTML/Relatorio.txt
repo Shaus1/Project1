@@ -1,0 +1,81 @@
+Falando sobre: Quebra-Cabeça
+
+Foi bem simples os comandos que usei foi simplesmente montar as características dos animais de acordo com a sua forma.
+
+
+
+Falando sobre: Labirinto
+
+No Labirinto no nível 1 ate que foi fácil só tive que usar o comando "Avançar" que quando usado ele faz com que o boneco ande um passo, e o usei  duas vezes para que o programa seja executado.
+
+
+
+No nível 2 tive que usar dois comandos que foram eles "Avançar e Vire a " o comando "Vire a" é usando para que o boneco vire para a posição que você definir sendo a esquerda ou a direita usando o comando "Avançar" e depois o comando "Vire a Esquerda" fiz com que o boneco andasse e virasse a esquerda e em seguida usei o comando "Avançar" e o " Vire a direita" fazendo com oque ele avançasse e virasse a direita e chegasse ao ponto final.
+
+
+
+ No nível 3 usei os comandos "Repetir até " o ponto que estava marcado e usei o comando"Avançar" fazendo com que o boneco andasse ate o ponto definido.
+
+
+
+No nível 4 usei os comandos " Repetir até, Avança, Vire a esquerda e vire a direita"
+fazendo com que o boneco andasse ate o ponto definido.
+
+
+
+No Nível 5 usei apenas 3 comandos que são eles, "Avançar" que faz com que o boneco ande para frente "Vire a " que faz com que o Boneco vira para ambos os lados definidos, e o comando "Repita ate" que faz com que os comandos se repitam na sequência em que coloca-los ate o ponto definido.
+
+ 
+No nível 6 eu usei os seguintes comandos que foram "Repetir ate e Avançar" e um comando diferente que é o "Se caminho a esquerda" ele faz com que todo comando que for posto dentro dele fara uma ação quando houver um caminho. Ex: Se caminho for a esquerda" vire a esquerda. E o comando "Vire a " colocando todos na ordem dentro do comando "Repetir ate" fazendo com que o boneco chegue ate o ponto definido.
+
+ 
+No Nível 7 eu usei os mesmo comandos que no Nível 6 a unica coisa que mudei foi por o comando "Vire a " definido para que vire a direita em fez de virar a esquerda. 
+
+
+No Nível 8 usando os mesmo comandos que nos níveis anteriores somente adicionando duas vezes o comando "Se caminho á" logo apos o comando "Se caminho á" mudando apenas que no primeiro coloquei dentro dele "Vire a Esquerda" e dentro do segundo "Vire a Direita" fazendo assim com que o boneco chegasse ai destino.
+
+
+No nível 9 já foi um pouco mais difícil de entender, colocando os comandos na seguinte ordem "Repetir até" e um comando novo que foi o "Se a caminho á faça .... senão ...." 
+Ex: Esse comando serve para que se a um caminho para esquerda o boneco segura para onde for definido se não houver caminho para esquerda o boneco fara uma outra ação a definir é ai que entra o senão, e dentro do senão usei o comando "Se caminho á" fazendo com que esse comando seja usado apenas se não houver caminho para onde for definido.
+
+
+
+Falando sobre: Pássaro 
+
+No Nível 1 foi bem simples, mudando apenas a direção do pássaro para 45° fazendo com que o pássaro voasse em direção a minhoca e depois o ninho. 
+
+
+
+
+No Nível 2 usei 3 comandos que são "Se.... senão" esse comando serve para uma determinada ordem, caso algo seja colocando no Se ele ira fazer determinada tarefa, e uma outra coisa seja colocado no senão, nesse caso o Se tem preferencia de comandos.. oque for colocado no Se sera executado se tiver determinada tarefe mas se não houver ai o Senão vai ser executado. Coloquei "Não tem minhoca" no Se e usei o comando"Direção" em 0° que ira fazer o pássaro seguir para determinado lado.
+
+
+
+No Nível 3 foi também um pouco mais fácil porem complicado, usai os comandos "Se...senão" e o "direção" usando no Faça se não tem minhoca a  direção em 300° no Senão a direção em 60° fazendo com que o pássaro voe em direção a minhoca e em seguida voe ao ninho.
+
+
+No Nível 4 dai que começa a ficar mais difícil, a um outro comando x que representa as paredes e o Y que representa o teto que soma duas entradas retornando se a primeira entrada é maior que a segunda, sendo assim ele toma uma ação devido ao ser definido, e também usei o comando "Se..senão" e os comandos dentro dele foram o de "Direção" indicando um no faça na direção 0° e no senão na direção 270° fazendo com que o pássaro chegue ao destino.
+
+
+
+No Nível 5 a uma ferramenta de junção que faz com que eu possa adicionar comandos "Se, senão e senão se" fazendo com que melhore um pouco a função dos programas. Eu coloquei os seguintes comandos  Y > 20, o Y representa o teto e os números representam a proximidade.. e usei os comandos direção em 180° fazendo com que o pássaro voe ao destino.
+
+
+
+No Nível 6 usando a mesma ferramenta que usei no nível passado, consegui completar esse nível, que foi a ferramenta de Junção de comandos, utilizei os comandos "Se" usei a Palavra" não tem minhoca" em seguida no "faça" usei o comando "direção" colocando em direção 345° e em seguida no "senão se" usei o " Y < 80" fazendo que o pássaro voe nessa direção 90° e novamente usei n segundo "senão se" usei o comando "direção" no angulo de 180°.
+
+
+
+No Nível 7 usando a ferramenta de junção, juntei os comandos Se, Senão e Senão se, e com eles montei a seguinte ordem, no "Se" coloquei "Y > 50" e em seguida no "Faça"  coloquei o "Direção" no angulo de 225° e logo a pós no "Senão se" coloquei a palavra não tem minhoca em seguida no segundo "Faça" coloquei o "Direção" no angulo de 300° e no "Senão" coloquei o "Direção" no angulo de 180° fazendo assim o pássaro chegar ao destino.
+
+
+
+No Nível 8 eu demorei muito pra entender mas entendi, usando a ferramenta de junção, coloquei "Se" usando o "Y < 40" e em seguida usei no "Faça" o "Direção" no angulo de 90° em seguida no "Senão se" a palavra Não tem minhoca e no segundo "Faça" o "direção" no angulo de 345° e no segundo "Senão" utilizei outro comando que retorna verdadeiro se ambas as partes forem verdadeira, utilizando ele coloquei dentro "X > 50 " e "Y < 50" fazendo com que ambas as parte retorne verdadeiras, e no terceiro "Faça" coloquei o "Direção" no angulo de 180° e no "Senão" coloquei o "Direção" no angulo de 45° fazendo com que o pássaro chegue ao destino.
+
+
+
+No Nível 9 demorei muito pra conseguir fazer mas consegui, colocando a ferramenta de junção eu coloquei no "Se" adicionei o que retorna ambas as partes verdadeiras, e dentro dele coloquei a palavra Não tem minhoca e "X > 20" dando resultado verdadeiro, e em seguida coloquei no "Faça" o "Direção" no angulo de 180° e logo a após no "Senão" usei o comando que retorna ambas as partes verdadeiras e dentro dela usei novamente a palavra não tem minhoca e também "Y > 20" e no segundo "Faça" coloquei o "Direção" no angulo de 270° e no segundo "Senão" coloquei o que retorna ambas as partes verdadeiras e dentro coloquei "Y < 70" e "X <40"  e no terceiro "Faça" coloquei o "Direção" no angulo de 90° e por fim no "Senão" coloquei o "Direção" no angulo de 315°. 
+
+
+
+

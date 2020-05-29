@@ -1,0 +1,100 @@
+ 1 
+moveForward();
+moveForward();
+
+
+2
+moveForward();
+turnLeft();
+moveForward();
+turnRight();
+moveForward();
+
+
+3
+while (notDone()) {
+  moveForward();
+}
+
+
+4
+while (notDone()) {
+  moveForward();
+  turnLeft();
+  moveForward();
+  turnRight();
+}
+
+
+5
+moveForward();
+moveForward();
+turnLeft();
+while (notDone()) {
+  moveForward();
+}
+
+
+6
+while (notDone()) {
+  moveForward();
+  if (isPathLeft()) {
+    turnLeft();
+  }
+}
+
+
+7
+while (notDone()) {
+  moveForward();
+  if (isPathRight()) {
+    turnRight();
+  }
+}
+
+
+8
+while (notDone()) {
+  moveForward();
+  if (isPathLeft()) {
+    turnLeft();
+  }
+  if (isPathRight()) {
+    turnRight();
+  }
+}
+
+
+9
+while (notDone()) {
+  if (isPathForward()) {
+    moveForward();
+  } else {
+    if (isPathLeft()) {
+      turnLeft();
+    } else {
+      turnRight();
+    }
+  }
+}
+
+
+10
+while (notDone()) {
+  moveForward();
+  if (isPathLeft()) {
+    if (isPathForward()) {
+      if (isPathRight()) {
+        turnRight();
+      } else {
+        turnLeft();
+      }
+    } else {
+      turnLeft();
+    }
+  } else {
+    if (isPathRight()) {
+      turnRight();
+    }
+  }
+}
